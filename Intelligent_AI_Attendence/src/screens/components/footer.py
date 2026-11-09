@@ -34,7 +34,7 @@ def footer_home():
                 font-size: 11px;
                 color: #000000;
             ">
-                © 2026 Apani Hazari
+                © 2026 Apni Haziri
             </div>
 
         </div>
@@ -72,7 +72,7 @@ def footer_dashboard():
                 font-size: 11px;
                 color: #000000;
             ">
-                © 2026 Apani Hazari
+                © 2026 Apni Haziri
             </div>
 
         </div>

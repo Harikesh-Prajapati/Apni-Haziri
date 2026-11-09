@@ -5,7 +5,7 @@ import streamlit as st
 
 # Must be the first Streamlit command, so it runs before the app's own imports.
 st.set_page_config(
-    page_title="Apani Hazari - Making Attendance Faster Using AI",
+    page_title="Apni Haziri - Making Attendance Faster Using AI",
     page_icon="https://cdn-icons-png.magnific.com/256/18492/18492086.png",
 )
 

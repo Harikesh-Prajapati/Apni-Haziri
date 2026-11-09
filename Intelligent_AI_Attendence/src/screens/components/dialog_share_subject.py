@@ -5,7 +5,7 @@ import segno
 import streamlit as st
 
 
-APP_URL = "https://apani-hazari.streamlit.app"
+APP_URL = "https://apni-haziri.streamlit.app"
 
 
 @st.dialog("Share Class Link")

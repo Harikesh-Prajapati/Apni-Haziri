@@ -24,7 +24,7 @@ def header_home():
                 color: #E0E3FF;
                 margin: 10px 0 0 0;
             ">
-                Apani <br> Hazari
+                Apni <br> Haziri
             </h1>
 
         </div>
@@ -51,7 +51,7 @@ def header_dashboard():
                 color: #5865F2;
                 margin: 0;
             ">
-                Apani <br> Hazari
+                Apni <br> Haziri
             </h2>
 
         </div>

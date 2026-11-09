@@ -12,7 +12,7 @@ TEACHER_IMAGE = "https://i.ibb.co/CsmQQV6X/mascot-prof.png"
  
  
 def home_screen():
-    """Home screen for the Apani Hazari attendance application."""
+    """Home screen for the Apni Haziri attendance application."""
  
     header_home()
     style_background_home()
@@ -45,7 +45,7 @@ def home_screen():
             background: transparent;
         }
  
-        /* Force Inter on the "Apani Hazari" title (and all text) from header_home(),
+        /* Force Inter on the "Apni Haziri" title (and all text) from header_home(),
            even if it uses inline styles or its own font-family */
         [data-testid="stMarkdownContainer"] *,
         [data-testid="stHtml"] *,

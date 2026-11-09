@@ -36,7 +36,7 @@ def style_student_screen():
         <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
-        /* ---------- Inter font: "Apani Hazari" title, headings, labels, spinner ---------- */
+        /* ---------- Inter font: "Apni Haziri" title, headings, labels, spinner ---------- */
         [data-testid="stMarkdownContainer"] *:not([data-testid="stIconMaterial"]),
         [data-testid="stHtml"] *,
         [data-testid="stHeading"],
@@ -49,7 +49,7 @@ def style_student_screen():
             font-family: 'Inter', sans-serif !important;
         }
 
-        /* "Apani Hazari" title: heavy Inter with tight line spacing */
+        /* "Apni Haziri" title: heavy Inter with tight line spacing */
         [data-testid="stMarkdownContainer"] h1,
         [data-testid="stMarkdownContainer"] h2,
         [data-testid="stMarkdownContainer"] h3,
