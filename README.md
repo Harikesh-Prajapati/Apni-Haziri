@@ -1,18 +1,18 @@
-# Apani Hazari 🎓
+# Apni Haziri 🎓
 
 ### AI-Powered Smart Attendance Platform
 
 **Take attendance with a photo. Track every class with ease.**
 
-Apani Hazari is an AI-powered attendance management system that uses face recognition and voice-based attendance to simplify classroom attendance. Teachers can manage subjects and attendance records, while students can track their attendance from their dashboards.
+Apni Haziri is an AI-powered attendance management system that uses face recognition and voice-based attendance to simplify classroom attendance. Teachers can manage subjects and attendance records, while students can track their attendance from their dashboards.
 
 ### 🚀 Live Demo
 
-[**Launch Apani Hazari**](https://apani-hazari.streamlit.app/)
+[**Launch Apni Haziri**](https://apni-haziri.streamlit.app/)
 
 ### 🌐 Landing Page
 
-[**Visit Apani Hazari Landing Page**](https://apani-hazari-landing-page.vercel.app/)
+[**Visit Apni Haziri Landing Page**](https://apani-hazari-landing-page.vercel.app/)
 
 ## ✨ Features
 
@@ -57,8 +57,8 @@ Apani Hazari is an AI-powered attendance management system that uses face recogn
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Harikesh-Prajapati/Apani-Hazari.git
-cd Apani-Hazari
+git clone https://github.com/Harikesh-Prajapati/Apni-Haziri.git
+cd Apni-Haziri
 ```
 
 ### 2. Create a virtual environment
@@ -98,12 +98,12 @@ Keep your credentials private. Never commit secrets to GitHub.
 streamlit run Intelligent_AI_Attendence/app.py
 ```
 
-Open [http://localhost:8501](http://localhost:8501) in your browser.
+Open http://localhost:8501 in your browser.
 
 ## 📁 Project Structure
 
 ```text
-Apani-Hazari/
+Apni-Haziri/
 ├── requirements.txt
 └── Intelligent_AI_Attendence/
     ├── app.py
@@ -132,6 +132,6 @@ Apani-Hazari/
 
 - 💻 GitHub: [Harikesh-Prajapati](https://github.com/Harikesh-Prajapati)
 - 💼 LinkedIn: [Harikesh Prajapati](https://www.linkedin.com/in/harikesh-prajapati-05034027a/)
-- 🚀 Project: [Apani Hazari](https://github.com/Harikesh-Prajapati/Apani-Hazari)
+- 🚀 Project: [Apni Haziri](https://github.com/Harikesh-Prajapati/Apni-Haziri)
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
